@@ -1,7 +1,7 @@
-<h1 align="center">Hey! I'm Yusuke</h1>
-<h3 align="center">I'm a Information Systems student, I like to code and learn new things.</h3>
+<h1 align="center">Hey! I'm Alan</h1>
+<h3 align="center">I'm a Information Systems student, I'm really into front-end and UI/UX design.</h3>
 
-- I’m currently learning **Java**
+- I’m currently learning **JavaScript**
 
 - How to reach me **alanyusuke@gmail.com**
 
